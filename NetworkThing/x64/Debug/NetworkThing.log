@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\NetworkThing\NetworkThing\main.cpp(37,2): error C3861: 'ParseAck': identifier not found
+C:\NetworkThing\NetworkThing\main.cpp(41,3): error C3861: 'PushSeq': identifier not found
+  Network.cpp
+  Generating Code...

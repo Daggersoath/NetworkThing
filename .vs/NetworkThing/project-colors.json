@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04b8e6f0-180f-4818-9d61-9d166413f364": {
+      "ProjectGuid": "04b8e6f0-180f-4818-9d61-9d166413f364",
+      "DisplayName": "NetworkThing",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
